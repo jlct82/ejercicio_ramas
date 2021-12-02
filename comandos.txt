@@ -1,0 +1,4 @@
+1. git init --> nuestro proyecto va estar trabanjando con git
+2. git remote add origin https://github.com/jlct82/ejercicio_ramas.git --> estaremos trabajando sobre ese repositorio
+3. git branch -M main --> creamos una rama 
+4. git push -u origin main --> subimos todos los archivos
