@@ -13,6 +13,7 @@
 13. git merge [nombreRama] --> para hacer un merge con una rama secundaria
 14. git branch -d [nombreRama] --> para eliminar una rama
 15. git clone [direccionHTTPSRepositorio]--> clonamos un repositorio
+16. git pull origin [nombreRama] --> para actualizar el repositorio clonado a partir de una rama
 <<<<<<< HEAD
 =======
 
