@@ -1,6 +1,19 @@
 1. git init --> nuestro proyecto va estar trabanjando con git
 2. git remote add origin https://github.com/jlct82/ejercicio_ramas.git --> estaremos trabajando sobre ese repositorio
-3. git branch -M main --> creamos una rama 
+3. git branch -M main --> creamos una rama
 4. git add . --> agregar todos los archivos que han cambiado
 5. git commit -m "comentario" --> para guardar los cambios
 6. git push -u origin master/main (master en gitlab - main en github)--> subimos todos los archivos
+7. git status --> ver el estatus de la base de datos
+8. clear --> para limpiar la terminal
+9. git branch [nombreRama] --> crear una nueva rama
+10. git branch --> verificar las ramas creadas y en cual estamos
+11. git checkout [nombreRama] --> cambiar de rama
+
+Para que no se suban ciertos archivos al github al hacer un push,
+se debe indicar en el archivo .gitignore cuales son las carpetas y/o archivos
+enlistandolos:
+- Ejemplo una carpeta:
+node_modules
+- Ejemplo un archivo:
+otro_archivo.js
