@@ -11,6 +11,8 @@
 11. git checkout [nombreRama] --> cambiar de rama
 12. git log --oneline --> verficar en que rama estamos y los commit realizado en cada rama
 13. git merge [nombreRama] --> para hacer un merge con una rama secundaria
+14. git branch -d [nombreRama] --> para eliminar una rama
+15. git clone [direccionHTTPSRepositorio]--> clonamos un repositorio
 <<<<<<< HEAD
 =======
 
