@@ -3,4 +3,10 @@
 3. git branch -M main --> creamos una rama 
 4. git add . --> agregar todos los archivos que han cambiado
 5. git commit -m "comentario" --> para guardar los cambios
-6. git push -u origin master/main (master en gitlab - main en github)--> subimos todos los archivos
+6. git push -u origin master/main (master en gitlab - main en github - master o main es el nombre de la rama donde estamos)--> subimos todos los archivos
+7. git status --> ver el estatus de la base de datos
+8. clear --> para limpiar la terminal
+9. git branch [nombreRama] --> crear una nueva rama
+10. git branch --> verificar las ramas creadas y en cual estamos
+11. git checkout [nombreRama] --> cambiar de rama
+12. git log --oneline --> verficar en que rama estamos y los commit realizado en cada rama
