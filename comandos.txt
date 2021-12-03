@@ -1,4 +1,6 @@
 1. git init --> nuestro proyecto va estar trabanjando con git
 2. git remote add origin https://github.com/jlct82/ejercicio_ramas.git --> estaremos trabajando sobre ese repositorio
 3. git branch -M main --> creamos una rama 
-4. git push -u origin main --> subimos todos los archivos
+4. git add . --> agregar todos los archivos que han cambiado
+5. git commit -m "comentario" --> para guardar los cambios
+6. git push -u origin master/main (master en gitlab - main en github)--> subimos todos los archivos
